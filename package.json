@@ -1,0 +1,31 @@
+{
+  "name": "slice-theme",
+  "displayName": "Slice Theme",
+  "description": "A theme with Operator Mono support for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "appengine",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chazeprasad/slice-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Slice Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Slice Theme-color-theme.json"
+      },
+      {
+        "label": "Slice No Italics Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Slice No Italics Theme-color-theme.json"
+      }
+    ]
+  }
+}
