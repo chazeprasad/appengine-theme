@@ -2,8 +2,8 @@
   "name": "slice-theme",
   "displayName": "Slice Theme",
   "description": "A theme with Operator Mono support for Visual Studio Code.",
-  "version": "1.0.0",
-  "publisher": "appengine",
+  "version": "1.0.1",
+  "publisher": "chazeprasad",
   "engines": {
     "vscode": "^1.30.0"
   },
