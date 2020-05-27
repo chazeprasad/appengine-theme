@@ -2,7 +2,7 @@
   "name": "appengine-theme",
   "displayName": "AppEngine Theme",
   "description": "A theme with Operator Mono support for Visual Studio Code.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "appengine",
   "engines": {
     "vscode": "^1.30.0"
