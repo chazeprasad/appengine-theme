@@ -398,6 +398,7 @@
         "foreground": "#93c63d"
       }
     },
+   
     {
       "name": "Punctuation Definition Parameters",
       "scope": [
@@ -1253,7 +1254,17 @@
       ],
       "settings": {
         "fontStyle": "italic"
-      }
-    }
+      },
+      
+    },
+    {
+      "name": "italicsify for operator mono",
+      "scope": [
+        "keyword.operator",
+      ],
+      "settings": {
+        "fontStyle": ""
+      },
+    },
   ]
 }
