@@ -17,12 +17,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Slice Theme",
+        "label": "AppEngine Slice Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Slice Theme-color-theme.json"
       },
       {
-        "label": "Slice No Italics Theme",
+        "label": "AppEngine Slice No Italics Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Slice No Italics Theme-color-theme.json"
       }
