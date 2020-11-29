@@ -2,11 +2,16 @@
   "name": "appengine-theme",
   "displayName": "AppEngine Theme",
   "description": "A theme with Operator Mono support for Visual Studio Code.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "appengine",
+  "icon": "images/app-engine-logo.png",
   "engines": {
     "vscode": "^1.30.0"
   },
+  "keywords": [
+    "theme"
+  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/chazeprasad/appengine-theme"
